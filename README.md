@@ -7,6 +7,6 @@ Cybersecurity- Currently learning: Spring Boot, MongoDB, and GitHub Actions
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjana1572show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjana1572&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana1572&layout=compact)
 ## Connect with Me- ✉️ Email: sanjanavanga156@gmial.com 
